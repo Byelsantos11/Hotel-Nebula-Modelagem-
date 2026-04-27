@@ -1,0 +1,24 @@
+{
+  "_id": {
+    "$oid": "69efa76967bb7ff1239be5f8"
+  },
+  "tipo": [
+    "hospede"
+  ],
+  "nome": "Mariana Silva",
+  "cpf": "123.456.789-00",
+  "contato": {
+    "email": "mariana@email.com",
+    "celular": "+55 11 99999-8888"
+  },
+  "preferencias": {
+    "travesseiro": "penas de ganso",
+    "andar_preferencial": "alto",
+    "restricoes_alimentares": [
+      "glúten"
+    ]
+  },
+  "data_cadastro": {
+    "$date": "2026-01-15T10:00:00.000Z"
+  }
+}
