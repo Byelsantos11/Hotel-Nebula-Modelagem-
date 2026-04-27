@@ -1,0 +1,26 @@
+{
+  "_id": {
+    "$oid": "69efa8b767bb7ff1239be60a"
+  },
+  "hospede_id": {
+    "$oid": "69efa76967bb7ff1239be5f8"
+  },
+  "quarto_id": {
+    "$oid": "69efa7e567bb7ff1239be601"
+  },
+  "data_reserva": {
+    "$date": "2026-04-20T10:00:00.000Z"
+  },
+  "periodo": {
+    "checkin": {
+      "$date": "2026-05-10T14:00:00.000Z"
+    },
+    "checkout": {
+      "$date": "2026-05-15T11:00:00.000Z"
+    }
+  },
+  "valor_total": {
+    "$numberDecimal": "2750.00"
+  },
+  "status": "confirmada"
+}
