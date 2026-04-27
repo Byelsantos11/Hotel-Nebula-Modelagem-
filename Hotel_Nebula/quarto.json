@@ -1,0 +1,20 @@
+{
+  "_id": {
+    "$oid": "69efa7e567bb7ff1239be601"
+  },
+  "numero": 202,
+  "tipo": "Suíte Master",
+  "capacidade": 4,
+  "preco_diaria": {
+    "$numberDecimal": "550.00"
+  },
+  "status": "disponivel",
+  "comodidades": [
+    "vista para o mar",
+    "banheira",
+    "frigobar",
+    "wi-fi premium",
+    "ar-condicionado"
+  ],
+  "descricao": "Quarto espaçoso com varanda e hidromassagem."
+}
